@@ -1,1 +1,0 @@
-RPROVIDES:${PN} += "network-configuration"

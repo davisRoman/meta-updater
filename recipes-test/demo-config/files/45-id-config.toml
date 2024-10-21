@@ -1,3 +1,0 @@
-[uptane]
-ecu_serial = @SERIAL@
-ecu_hardware_id = @HWID@

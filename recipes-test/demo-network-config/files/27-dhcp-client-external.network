@@ -1,6 +1,0 @@
-[Match]
-Name=enp0s3
-
-[Network]
-Description=External network for secondary
-DHCP=yes
